@@ -6,3 +6,10 @@ Dumping data related to Prakrit
 | 2. | Āgamasaddakoso | extracted from trilingual *Āgamasasddakoso* by  Dīparatnasāgarajī  (Prakrit, Sanskrit, Gujarati) from Jain E-Library [1](https://jainelibrary.org/book-detail/?srno=016024) [2](jainelibrary.org/book-detail/?srno=016025) [3](https://jainelibrary.org/book-detail/?srno=016026) [4](https://jainelibrary.org/book-detail/?srno=016027) | [HERE (coming soon)](https://theprakritblog.com/resources/deep-dict.html)
 | 3. | Dhanapāla's Pāia-Lacchī Nāmamālā | extracted from [Doshi Edition 1960](https://jainelibrary.org/book-detail/?srno=001708) | [Here](https://theprakritblog.com/resources/dict) |
 | 4. | Rāma Pāṇivāda's Kaṁsavaho | extracted from [Upadhye Edition 1940](https://archive.org/details/in.ernet.dli.2015.280744) | [Here](https://theprakritblog.com/resources/dict) |
+
+## License
+
+This project is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+See the LICENSE file for details.
